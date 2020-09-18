@@ -4,7 +4,7 @@
 
 ## 网站地址
 
-[happy1slm](http://happy1slm.xyz/)
+[happy1slm](http://happy1slm.com/)
 
 ## 示例截图，嘿嘿，还是蛮好看的吧
 
