@@ -89,7 +89,7 @@ service-worker: true
 friends: [
     {
         title: "GitHub·happy1slm",
-        href: "http://happy1slm.github.io"
+        href: "http://happy1slm.com"
     }
 ]
 
