@@ -12,8 +12,8 @@ github_repo: "https://github.com/happy1slm/happy1slm.github.io.git" #code reposi
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "就算这样,也要笑着去努力啊!"
-sidebar-avatar: /img/head.jpg      # 头像
+sidebar-about-description: "人生只有回不去的过去，没有过不去的当下!"
+sidebar-avatar: /img/Andy.jpg      # 头像
 
 
 
