@@ -138,6 +138,24 @@ layout: default
 								</li>
 							{% endif %}
 
+							
+							# 2020-09-26 增加微信
+							<!-- add Wechat -->
+							{% if site.Wechat_username %}
+								<li>
+									<a target="_blank" href="https://wx2.qq.com/{{ site.wechat_username }}">
+										<span class="fa-stack fa-lg">
+											<i class="fa fa-circle fa-stack-2x"></i>
+											<i class="fa fa-wechat fa-stack-1x fa-inverse">微</i>
+										</span>
+									</a>
+								</li>
+							{% endif %}
+							
+							
+							
+							
+							
 							<!-- add Github -->
 							{% if site.github_username %}
 								<li>
@@ -151,12 +169,15 @@ layout: default
 							{% endif %}
 
 						</ul>
+						
+						
 						{% if site.email %}
-							<p>✉️ {{site.email}}</p>
+							<p>✉️QQ： {{site.email}}</p>
 						{% endif %}
 						
+						# 2020-09-26 增加了微信
 						{% if site.wechat %}
-							<p>✉️ {{site.wechat}}</p>
+							<p>✉️微信： {{site.wechat}}</p>
 						{% endif %}
 						
 					</div>
