@@ -24,7 +24,11 @@ sidebar-avatar: /img/Andy01.jpg      # 头像
 
 
 # SNS settings | 社交网络设置
+# 2020-09-26 增加facebook,csdn,zhihu_username
 github_username: happy1slm
+facebook_username: Andy Liu
+csdn_username: happy1slm
+zhihu_username: Andy Liu
 
 
 
